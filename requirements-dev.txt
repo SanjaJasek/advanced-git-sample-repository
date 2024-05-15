@@ -4,3 +4,4 @@ pillow
 kombu
 pandas
 pytz
+matplotlib
